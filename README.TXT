@@ -27,3 +27,5 @@ Then start describing your problem by typing in the terminal window.
 
 The purpose of this project is to demonstrate and study library classes, such 
 as ArrayList, HashMap, HashSet, and Random.
+
+43. If the key is missing in the map, it will add the key with that exact variable which is super useful.
