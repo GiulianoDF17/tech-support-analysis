@@ -52,6 +52,8 @@ public class SupportSystem
             }
         }
         printGoodbye();
+        WordCounter wc = new WordCounter();
+        wc.printWordCounter();
     }
 
     /**
